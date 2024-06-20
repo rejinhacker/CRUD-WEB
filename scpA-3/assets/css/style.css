@@ -1,0 +1,43 @@
+/* Custom CSS Styles */
+body {
+    padding-top: 70px; /* Adjust according to navbar height */
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+
+.jumbotron, .jumbotron .lead {
+    color: #ffffff !important;
+    background-color: #343a40 !important;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.scp-entry {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+}
+
+.scp-entry h4 {
+    margin-top: 0;
+}
+
+.scp-entry p {
+    margin-bottom: 0.5rem;
+}
+
+.section {
+    padding: 2rem 0;
+}
+
+.btn-round {
+    border-radius: 20px;
+}
